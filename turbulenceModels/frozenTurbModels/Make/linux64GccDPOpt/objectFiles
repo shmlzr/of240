@@ -1,0 +1,7 @@
+OBJECTS = \
+$(OBJECTS_DIR)/frozenOmegaSST.o\
+$(OBJECTS_DIR)/frozenOmegaSST_v2.o\
+$(OBJECTS_DIR)/frozenKOmegaSST.o\
+$(OBJECTS_DIR)/frozenOmegaSST_withoutkDeficit.o\
+$(OBJECTS_DIR)/frozenOmegaSST_kDeficit_in_kEq.o\
+$(OBJECTS_DIR)/frozenOmegaSST_modPk.o

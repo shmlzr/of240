@@ -1,0 +1,6 @@
+include frozen_OmegaSST/frozenOmegaSST.dep
+include frozen_OmegaSST_v2/frozenOmegaSST_v2.dep
+include frozen_kOmegaSST/frozenKOmegaSST.dep
+include frozen_OmegaSST_withoutkDeficit/frozenOmegaSST_withoutkDeficit.dep
+include frozen_OmegaSST_kDeficit_in_kEq/frozenOmegaSST_kDeficit_in_kEq.dep
+include frozen_OmegaSST_modPk/frozenOmegaSST_modPk.dep

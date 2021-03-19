@@ -1,0 +1,7 @@
+SOURCE = \
+frozen_OmegaSST/frozenOmegaSST.C\
+frozen_OmegaSST_v2/frozenOmegaSST_v2.C\
+frozen_kOmegaSST/frozenKOmegaSST.C\
+frozen_OmegaSST_withoutkDeficit/frozenOmegaSST_withoutkDeficit.C\
+frozen_OmegaSST_kDeficit_in_kEq/frozenOmegaSST_kDeficit_in_kEq.C\
+frozen_OmegaSST_modPk/frozenOmegaSST_modPk.C

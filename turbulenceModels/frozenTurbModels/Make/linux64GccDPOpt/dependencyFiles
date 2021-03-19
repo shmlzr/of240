@@ -1,0 +1,7 @@
+DEPENDENCIES = \
+frozen_OmegaSST/frozenOmegaSST.dep\
+frozen_OmegaSST_v2/frozenOmegaSST_v2.dep\
+frozen_kOmegaSST/frozenKOmegaSST.dep\
+frozen_OmegaSST_withoutkDeficit/frozenOmegaSST_withoutkDeficit.dep\
+frozen_OmegaSST_kDeficit_in_kEq/frozenOmegaSST_kDeficit_in_kEq.dep\
+frozen_OmegaSST_modPk/frozenOmegaSST_modPk.dep

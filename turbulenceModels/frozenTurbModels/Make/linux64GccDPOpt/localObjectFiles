@@ -1,0 +1,7 @@
+LOCAL_OBJECTS = \
+frozenOmegaSST.o\
+frozenOmegaSST_v2.o\
+frozenKOmegaSST.o\
+frozenOmegaSST_withoutkDeficit.o\
+frozenOmegaSST_kDeficit_in_kEq.o\
+frozenOmegaSST_modPk.o
